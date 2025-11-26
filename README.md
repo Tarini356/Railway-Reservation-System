@@ -49,4 +49,12 @@ Passenger name association
 
 Confirmation for cancellations
 
-Prevention of invalid operations (double-booking, canceling empty seat)
+Prevention of invalid operations (double-booking, canceling empty sea
+
+output :-
+
+<img width="368" height="622" alt="Screenshot 2025-11-26 102503" src="https://github.com/user-attachments/assets/7266d43f-1d4e-4596-ba64-16b0ae8eafe7" />
+
+
+
+
